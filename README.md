@@ -1,4 +1,4 @@
-# Hux Blog
+# LYH Blog
 
 ### [View Live LYH's Blog &rarr;](https://liuyanhuan.github.io/)
 
